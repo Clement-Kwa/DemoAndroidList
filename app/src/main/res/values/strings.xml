@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Android List</string>
+    <string name="pie">Pie - 9.0</string>
+    <string name="Oreo">Nougat</string>
+    <string name="m">Marshmallow</string>
+    <string name="l">Lollipop</string>
+
+</resources>
